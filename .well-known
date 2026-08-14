@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.moibenavides2_create.twa",
+    "sha256_cert_fingerprints": ["C7:F8:0E:3B:5C:B3:85:C5:48:C6:C4:CF:31:25:59:D2:EE:DD:A0:B3:7A:A5:74:72:BA:2F:C9:EF:0B:54:4D:A3"]
+  }
+}]
